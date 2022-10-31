@@ -8673,7 +8673,8 @@ button.bg-dark:focus {
 
 .mt-5,
 .my-5 {
-  margin-top: 3rem !important;
+  margin-bottom: 6rem !important;
+  text-align: center;
 }
 
 .mr-5,
@@ -8681,9 +8682,10 @@ button.bg-dark:focus {
   margin-right: 3rem !important;
 }
 
+/* edited margin*/
 .mb-5,
 .my-5 {
-  margin-bottom: 3rem !important;
+  margin-bottom: 1rem !important;
 }
 
 .ml-5,
@@ -9308,9 +9310,10 @@ button.bg-dark:focus {
     margin-right: 3rem !important;
   }
 
+  /* edited margin */
   .mb-md-5,
   .my-md-5 {
-    margin-bottom: 3rem !important;
+    margin-bottom: 1rem !important;
   }
 
   .ml-md-5,

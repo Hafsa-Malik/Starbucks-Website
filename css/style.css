@@ -12225,6 +12225,7 @@ textarea.form-control {
   margin-bottom: 30px;
 }
 
+
 .about-author .desc h3 {
   font-size: 24px;
 }
@@ -12347,6 +12348,11 @@ textarea.form-control {
   -webkit-transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
+}
+
+iframe {
+  width: 100%;
+  height: 100%;
 }
 
 .ftco-footer-social li a:hover {
